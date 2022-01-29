@@ -4,8 +4,9 @@ TUGAS UAS BASIS DATA MUHAMMAD ARIEF <br> <br>
 NAMA : MUHAMMAD ARIEF <br>
 Nim : 202055202101 <br>
 Dosen Pengampu : La Jupriadi Fakhri, S.Kom <br>
-<br>
-
+<br><br>
+Link Youtube : <br>
+https://youtu.be/phthRrMYjOk
 <br><br>
 TAMPILAN :
 <img src="image.png">
